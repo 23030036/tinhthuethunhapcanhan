@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Logo
-st.image("bdu.htm")
+st.image("logo.jpg")
 
 # Thông tin
 st.markdown("### 📝 **Thủy Tiên 036**")
